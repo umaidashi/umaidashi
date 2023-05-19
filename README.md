@@ -1,4 +1,14 @@
-### Hi there 👋
+### :fire: Umaidashi. 🔥
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaidashi&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=umaidashi&count_private=true" />
+</p>
+
+
+
+
+
 
 <!--
 **umaidashi/umaidashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
