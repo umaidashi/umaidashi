@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: koki-develop/hub-purge-action@v1
         with:
-          repository: koki-develop/koki-develop
+          repository: umaidashi/umaidashi
