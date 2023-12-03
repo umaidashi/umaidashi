@@ -10,6 +10,15 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<div>
+  <h3>私はpython界のガルーラです</h3>
+  <a href="https://github.com/najah7/pokemon-stats-checker" target="_blank">
+    <img src="https://graph-bucket-sugiyama.s3.ap-northeast-1.amazonaws.com/umaidashi/graph.png" width="300px" />
+  </a>
+  <p>powered by <a href="https://github.com/najah7/pokemon-stats-checker">エンジニア種族値チェッカー</a></p>
+</div>
+          
+
 
 <!--
 **umaidashi/umaidashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
