@@ -1,0 +1,3 @@
+- uses: koki-develop/hub-purge-action@v1
+  with:
+    repository: umaidashi/umaidashi
