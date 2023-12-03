@@ -3,7 +3,7 @@
 <div>
   <h3>私はts界のプテラです</h3>
   <a href="https://github.com/najah7/pokemon-stats-checker" target="_blank">
-    <img src="" width="300px" />
+    <img src="https://graph-bucket-sugiyama.s3.ap-northeast-1.amazonaws.com/umaidashi/graph.png" width="300px" />
   </a>
   <p>powered by <a href="https://github.com/najah7/pokemon-stats-checker">エンジニア種族値チェッカー</a></p>
 </div>
