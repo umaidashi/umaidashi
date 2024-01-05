@@ -1,5 +1,6 @@
 ### :fire: Umaidashi. 🔥
 
+<!--
 <div>
   <h3>私はts界のギャラドスです</h3>
   <a href="https://github.com/najah7/pokemon-stats-checker" target="_blank">
@@ -7,7 +8,8 @@
   </a>
   <p>powered by <a href="https://github.com/najah7/pokemon-stats-checker">エンジニア種族値チェッカー</a></p>
 </div>
-          
+-->
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaidashi&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=umaidashi&count_private=true" />
