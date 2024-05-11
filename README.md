@@ -13,8 +13,6 @@
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw1ieca06756401p4gqhec3k4/stats?cursusId=21&coalitionId=309" alt="yoishi's 42 stats" /></a>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw1ieca06756401p4gqhec3k4/stats?cursusId=9&coalitionId=63" alt="yoishi's 42 stats" /></a>
 
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw1ieca06756401p4gqhec3k4/project/3650473" alt="yoishi's 42 ft_printf Score" /></a>
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaidashi&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=umaidashi&count_private=true" />
