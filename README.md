@@ -19,8 +19,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=umaidashi
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- 
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw1ieca06756401p4gqhec3k4/stats?cursusId=21&coalitionId=309" alt="yoishi's 42 stats" /></a>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw1ieca06756401p4gqhec3k4/stats?cursusId=9&coalitionId=63" alt="yoishi's 42 stats" /></a>
+-->
 
 <div align="center">
   
